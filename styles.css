@@ -189,7 +189,7 @@ section {
 .hero {
   width: 100%;
   height: 100vh;
-  background: url('./images/hero_background.jpg') center no-repeat;
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbXyldjy_ZivT8A7msI2kfq-Kc1AO5j2ry-A&usqp=CAU') center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
