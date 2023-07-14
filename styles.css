@@ -344,7 +344,7 @@ section {
       rgba(250, 158, 44, 0.8),
       rgba(143, 80, 251, 0.8)
     ),
-    url('./images/the_paradise_bg.jpg') bottom center no-repeat;
+    url('https://raw.githubusercontent.com/AlbertStjarne/HotelBookingSiteResponsive/master/images/the_paradise_bg.jpg') bottom center no-repeat;
   background-size: cover;
 }
 
